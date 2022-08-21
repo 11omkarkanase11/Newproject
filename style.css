@@ -167,3 +167,85 @@ form a{
     background: #563434;
 
 }
+
+.header img {
+    float: left;
+    width: 600px;
+    height: 500px;
+    margin-left: 30px;
+    background: #555;
+  }
+  
+  .header h1 {
+    background-color:#e0d4d2;
+   
+    position:relative;
+    top: 40px;
+    left: 500px;
+  
+    
+  }
+.inner-div{
+    float: top;
+    width: 1100px;
+    margin-left: 100px;
+  
+
+  }
+  .inner-div h1{
+    font-size: 50px;
+    position: absolute;
+
+   margin-top: 120px;
+   margin-left: 124px;
+   height: 100px;
+    
+  }
+
+  .logo-image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.inner-inner-div{
+    font-size: 30px;
+    position: absolute;
+   display: block;
+   margin-top: 100px;
+   margin-left: 60px;
+   height: 10px;
+   width: 1000px;
+   padding: 30px;
+}
+.inner-inner-div h1{
+    background-color: #d9d9d4;
+    font-size: 50px;
+}
+.another-header{
+    
+    background-color: rgb(195, 203, 203);
+    margin-left: 100px;
+    width: 700px;
+    position: fixed;
+    bottom: 100px;
+    height: 250px;
+    text-align: center;
+    font-size: 50px;
+    padding: 40px;
+   
+}
+.taco-img{
+    
+    height:400px ;
+    width: 200px;
+    display: flex;
+}
+.chef img{
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin-left: 800px;
+     
+}
